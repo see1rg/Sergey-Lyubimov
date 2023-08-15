@@ -19,12 +19,12 @@
   </a>
 </div>
 
-<p align="center">
+<div align="center">
  <h3>Мои навыки:</h3>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,git,docker,postgres,postman,spring,hibernate" />
+    <img src="https://skillicons.dev/icons?i=java,git,docker,postgres,postman,spring,hibernate"/>
   </a>
-</p>
+</div>
 
 
 <div align="center">
