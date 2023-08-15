@@ -37,6 +37,7 @@
 
 <div align="center">
   <h3>Моя статистика:</h3>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=see1rg&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=see1rg&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
