@@ -37,5 +37,5 @@
 
 <div align="center">
   <h3>Моя статистика:</h3>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=see1rg&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=see1rg)](https://git.io/streak-stats)
 </div>
