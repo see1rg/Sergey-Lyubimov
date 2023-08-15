@@ -2,7 +2,8 @@
   <h3>Привет, меня зовут Сергей.</h3>
 </div>
 
-Я Java-разработчик из Санкт-Петербурга. Добро пожаловать в мой профиль на GitHub! Здесь вы найдете некоторые из моих проектов и примеры кода.
+Я Java-разработчик из Санкт-Петербурга. Добро пожаловать в мой профиль на GitHub!
+Здесь вы найдете некоторые из моих проектов и примеры кода.
 
  Открыт для сотрудничества и новых возможностей.
 
@@ -28,6 +29,7 @@
   </a>
 </div>
 
+
 <div align="center">
  <h3>Мои навыки:</h3>
    <a href="https://skillicons.dev">
@@ -35,9 +37,9 @@
   </a>
 </div>
 
+
 <div align="center">
   <h3>Моя статистика:</h3>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=see1rg&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=see1rg&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
