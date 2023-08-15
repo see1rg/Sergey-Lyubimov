@@ -10,7 +10,7 @@
   <h3>Контакты для связи:</h3>
 </div>
 
-<div id="badges">
+<div align="center">
   <a href="https://www.linkedin.com/in/see1rg/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -19,12 +19,6 @@
   </a>
 </div>
 
-<div align="center">
- <h3>Мои навыки:</h3>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,git,docker,postgres,postman,spring,hibernate"/>
-  </a>
-</div>
 
 
 <div align="center">
@@ -34,5 +28,10 @@
   </a>
 </div>
 
-
+<div align="center">
+ <h3>Мои навыки:</h3>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,git,docker,postgres,postman,spring,hibernate"/>
+  </a>
+</div>
 
