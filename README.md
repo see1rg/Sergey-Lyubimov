@@ -15,10 +15,25 @@
   </a>
 </div>
 
+Мои навыки:
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,git,docker,postgres,postman,spring,hibernate" />
   </a>
 </p>
+
+Присоединяйтесь ко мне на LeetCode:
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/see1rg/)
+
+
+<div align="center">
+  <h3>Присоединяйтесь ко мне на LeetCode:</h3>
+  <a href="https://leetcode.com/your-leetcode-username/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+</div>
+
 
 
