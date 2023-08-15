@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,git,docker,postgres,vim,postman,spring" />
+    <img src="https://skillicons.dev/icons?i=java,git,docker,postgres,postman,spring,hibernate" />
   </a>
 </p>
 
