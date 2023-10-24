@@ -8,7 +8,7 @@
 
   <h3>Мои навыки:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,git,docker,rabbitmq,hibernate,postgres,mongodb,postman"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,vue,git,docker,rabbitmq,hibernate,postgres,mongodb,postman"/>
   </a>
 
 
